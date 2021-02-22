@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MRTK/Examples/Demos/UX/BoundsControl/Scenes/BoundsControlExamples.unity
+    guid: 1e660854cfb3955469bbe155141377b3
   m_configObjects: {}
